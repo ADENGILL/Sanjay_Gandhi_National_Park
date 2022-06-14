@@ -1,0 +1,19 @@
+body{
+    background-image: url(images/tekdi.jpg);
+    background-size:cover;
+}
+
+h1{
+    color: green;
+}
+
+.info{
+    border: 1px solid black;
+    background-color: white;
+    opacity: 0.5;
+    transition: opacity 2s;
+}
+
+.info:hover{
+    opacity: 10;
+}

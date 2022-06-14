@@ -1,0 +1,35 @@
+body{
+    background-image: url(images/use.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: green;
+}
+
+h3{
+    align-content: center;
+}
+
+.dos{
+    display: inline-block;
+    background-color: white;
+    opacity: 0.3;
+    width: 500px;
+    margin-left: 150px;
+    margin-right: 22px;
+    transition: opacity 2s;
+}
+
+.dont{
+    display: inline-block;
+    background-color: white;
+    opacity: 0.3;
+    width: 500px;
+    transition: opacity 2s;
+}
+
+div:hover{
+    opacity: 10;
+}
+
