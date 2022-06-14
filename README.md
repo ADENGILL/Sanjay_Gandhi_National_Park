@@ -9,7 +9,7 @@ A sample webpage was created for **Sanjay Gandhi National Park** using different
 Write and execute an HTML and CSS3 code to design a webpage for a National Park as per
 the given details.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](images/template.JPG)
 
 The following features are expected to be used -
 
