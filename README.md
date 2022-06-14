@@ -1,7 +1,7 @@
 
 # Sanjay Gandhi National Park
 
-A sample webpage was created for **Sanjay Gandhi National Park** using different HTML and CSS.
+A sample webpage was created for **Sanjay Gandhi National Park** using different HTML and CSS features.
 
 
 
